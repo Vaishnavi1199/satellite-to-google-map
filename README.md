@@ -21,5 +21,5 @@ training was done for 200 epochs .Subplots (of source,generated and expexted ima
 
 # My experience.
 I have been working on a different pix2pix model during my internship since last month, and decided to try and implement it on this general dataset from scratch.It took me days to understand and implement, and after numerous failed attempts and long and frustrating training hours,this model gave fairly decent results.Although a little more access to computing power could have got it spot on.
-Suggestions,feedbacks,pull requests are welcomed!
+Suggestions & feedbacks are welcomed!
 Cheers to new learning!
